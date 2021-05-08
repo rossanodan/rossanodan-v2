@@ -16,11 +16,10 @@
       @include margin-bottom(.5);
 
       &-link {
-        color: $color-base;
+        color: $color-white;
 
         &:hover,
         &:focus {
-          color: $color-base;
           border-bottom: 1px solid $color-base;
         }
 
@@ -37,7 +36,7 @@
     &-meta {
       &-time {
         font-size: $typographic-small-font-size;
-        color: $color-base;
+        color: $color-white;
         font-weight: 600;
         text-transform: uppercase;
       }
