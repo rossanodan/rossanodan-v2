@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://keen-keller-1aeadb.netlify.app/',
+  url: 'https://keen-keller-1aeadb.netlify.app',
   pathPrefix: '/',
   title: 'Rossano D\'Angelo',
   subtitle: 'A blog by Rossano D\'Angelo',
