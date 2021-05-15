@@ -16,7 +16,13 @@
     @include margin(.5, 0, .5, 0);
 
     &-link {
-      color: $color-white;
+      color: $color-base;
+
+      &:hover,
+      &:focus {
+        color: $color-base
+      }
+
     }
 
   }
